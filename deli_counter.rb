@@ -1,4 +1,4 @@
-katz_deli = []
+ katz_deli = []
 # lastname = katz_deli.last
 
 def take_a_number(katz_deli, name)
